@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="I love dogs and hate cats and want mice but hate lice."
+        android:text="I love dogs and hate cats and want mice but hate lice. I also want a fish that lives in a dish"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
